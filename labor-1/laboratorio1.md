@@ -128,8 +128,3 @@
  1. Cual es la dirección de red y de broadcast de un host que tiene una ip 192.168.10.10/30. 
  1. Cuantos equipos o. 
  1. Incluya los saltos conocidos incluyendo el equipo de borde de su ISP.
-
-<<<<<<< HEAD
-<ol type="a">
-=======
->>>>>>> cb64dde28182c0bf7a5588acdf5f36bd94f4fb5c
