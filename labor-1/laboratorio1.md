@@ -5,4 +5,3 @@
 ## 1.[Configurar el entorno de trabajo](#) ✔
 
 <ol type="a">
- ya mija ahi si ya te sale
