@@ -53,8 +53,8 @@
  |Parámetro|Valor| 
  |--|--:| 
  |Número de Entradas en la tabla ARP |9| 
- |IPv4 Gateway|192.168.254.254| 
- |MAC Gateway|3C-A0-67-E8-D8-77| 
+ |IPv4 Gateway|192.168.1.1| 
+ |MAC Gateway|14-CC-20-B9-C2-AA| 
  |ISP|LEGON TELECOMUNICACIONES SAS| 
  |[IP Publica][5]|8.242.185.5| 
  |Sistema Autónomo|AS264646| 
@@ -98,10 +98,19 @@
   
  ## 9. [Diagrama de Red](#) ✔ 
  - Realice un diagrama topológico de la red que le ofrece conectividad a internet. 
+ [![redes.jpg](https://i.postimg.cc/906gRqYY/redes.jpg)](https://postimg.cc/dZ9jg3Xh)
  - Incluya todos los detalles de la red de area local a la que se encuentra conectado. 
  - Incluya los saltos conocidos incluyendo el equipo de borde de su ISP. 
+
+ - La red a la cual me encuentro conectado se encuentra constituida por dos routers, de ellos uno cumple la funcion de repetidor, los router son TP-Link Model No. TL-WR940N / TL-WR941ND. Los equipos que manejo se encuentran conectados a la red mediante wifi. 
   
  ## 10. [Preguntas de conocimiento](#) ✔ 
  1. Cual es la dirección de red y de broadcast de un host que tiene una ip 192.168.10.10/30. 
- 1. Cuantos equipos o. 
- 1. Incluya los saltos conocidos incluyendo el equipo de borde de su ISP.
+
+- Direccion de Red = 192.168.10.8/30
+
+- Direccion de broadcast = 192.168.10.11
+
+- Host Minimo = 192.168.10.9
+
+- Host Maximo = 192.168.10.10
